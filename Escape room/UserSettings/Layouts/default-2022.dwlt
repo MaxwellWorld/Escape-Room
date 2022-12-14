@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 75
+  controlID: 54
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 27
+  controlID: 115
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -299,7 +299,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 0
-  controlID: 28
+  controlID: 53
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -414,15 +414,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Maxwe\OneDrive\Escritorio\Programacion\Asistente Virtual\Agatha\Juego\Escape
-    room
+  m_LastProjectPath: C:\Users\Maxwe\OneDrive\Escritorio\Programacion\Asistente Virtual\Agatha\Escape
+    Room\Escape room
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 705b0000
-    m_LastClickedID: 23408
-    m_ExpandedIDs: 00000000705b000000ca9a3b
+    m_SelectedIDs: 745b0000
+    m_LastClickedID: 23412
+    m_ExpandedIDs: 00000000745b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -450,7 +450,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000745b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -588,9 +588,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a05b0000
-      m_LastClickedID: 23456
-      m_ExpandedIDs: 34f4ffff12fbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1019,7 +1019,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.12529714, y: 0.8319721, z: -0.20917003, w: -0.49836856}
     speed: 2
-    m_Value: {x: -0.12572876, y: 0.8324036, z: -0.21060655, w: -0.4969319}
+    m_Value: {x: -0.12529713, y: 0.831972, z: -0.20917, w: -0.4983685}
   m_Size:
     m_Target: 10
     speed: 2
