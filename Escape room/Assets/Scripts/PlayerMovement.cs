@@ -48,8 +48,8 @@ public class NewBehaviourScript : MonoBehaviour
 
     private void UpdateMovement()
     {
-        float Horizontal = Input.GetAxis("Horizontal");
-        float Vertical = Input.GetAxis("Vertical");
+        float Horizontal = Input.GetAxisRaw("Horizontal");
+        float Vertical = Input.GetAxisRaw("Vertical");
 
         Vector3 velocity = Vector3.zero;
 
